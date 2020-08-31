@@ -1,0 +1,23 @@
+<div class="result-box">
+    <p class="result-clm">▼ 10回分の回転数表示（平均値は10回分で算出）</p>
+    <ul class="result-list">
+        <li class="result-num"><span class="re-nums">初当り</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">2回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">3回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">4回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">5回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">6回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">7回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">8回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">9回目</span><span class="result-nums"></span></li>
+        <li class="result-num"><span class="re-nums">10回目</span><span class="result-nums"></span></li>
+    </ul>
+    <div class="result-money-container">
+    <p class="money-clm">▼ 使用する金額（16回転1000円で算出）</p>
+       <ul class="result-money-box">
+        <li class="first-money-area"><span class="money-name money-name-f">初当り金額</span><span class="first-money"></span></li>
+        <li class="result-money-area"><span class="money-name money-name-a">平均金額</span><span class="result-money"></span></li>
+        </ul>
+    </div>
+    
+</div>
